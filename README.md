@@ -1,2 +1,1 @@
-# Test
-Test variant uchun yaratildi
+# Test-Updated
